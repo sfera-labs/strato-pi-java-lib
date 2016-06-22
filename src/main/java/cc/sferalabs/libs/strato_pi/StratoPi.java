@@ -1,7 +1,7 @@
 /**
  * 
  */
-package cc.sferalabs.libs.stratopi;
+package cc.sferalabs.libs.strato_pi;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
