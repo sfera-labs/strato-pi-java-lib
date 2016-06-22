@@ -18,7 +18,7 @@ To use it as Maven dependency:
             ...
             <dependency>
                 <groupId>cc.sferalabs.libs</groupId>
-                <artifactId>stratopi</artifactId>
+                <artifactId>strato-pi</artifactId>
                 <version>1.0.0</version>
             </dependency>
             ...
