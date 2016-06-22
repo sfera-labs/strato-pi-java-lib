@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>cc.sferalabs.libs</groupId>
-	<artifactId>stratopi</artifactId>
+	<artifactId>strato-pi</artifactId>
 	<version>1.0.0</version>
 
 	<name>Strato Pi library</name>
